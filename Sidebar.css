@@ -1,0 +1,18 @@
+.sidebar{
+    justify-content: content;
+    background-color: rgb(250, 248, 248);
+    height:310vh;
+  
+    
+}
+.sidebar >img  {
+    height: 99vh;
+    width: 60vh;
+color:rgb(7, 7, 7);
+
+}
+.sidebar>p {
+    background-color: rgb(250, 248, 248);
+    color:rgb(15, 15, 15);
+
+}
